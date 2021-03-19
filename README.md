@@ -1,2 +1,2 @@
-# Fortress-stage-2
-this is under development (may not work)
+# p5.play-boilerplate
+Boiler plate for p5.play
